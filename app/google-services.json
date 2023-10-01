@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522429202595",
+    "project_id": "sign-in-5aeba",
+    "storage_bucket": "sign-in-5aeba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522429202595:android:7b76d0c4908145d438bf16",
+        "android_client_info": {
+          "package_name": "com.example.googleauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcb7bXnx4Ov_zuk32JVcV-PkYxWtASUPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
